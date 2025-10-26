@@ -1,4 +1,4 @@
-![Portfolio Screenshot](cp.png)
+![Portfolio Screenshot](imgs/pss.png)
 
 # 🌐 Nour Ibrahim Galal | Portfolio
 
